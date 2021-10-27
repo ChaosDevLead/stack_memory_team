@@ -12,6 +12,12 @@ const char * failMessage = ":(";
 
 /**********************************************
  * MAIN : The top of the callstack.
+ * You may use Linux, Mac, Windows, or replit.com to write your code. 
+ * If you use Windows, you will need to use "long long" instead of "long" to get 8-bytes.
+ * You can use the sizeof function to check the size of a long and a pointer with your compiler. 
+ * If they are both 8 bytes, the lab is much easier.
+ * This lab is very compiler and platform dependent. 
+ * If the code runs on one person's platform, it may not work without modification on another compiler/platform.
  **********************************************/
 int main()
 {
